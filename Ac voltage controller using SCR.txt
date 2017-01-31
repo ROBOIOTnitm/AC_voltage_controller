@@ -1,0 +1,9 @@
+Introduction:
+
+AC voltage controllers (ac line voltage controllers) are employed to vary the RMS value of the alternating voltage applied to a load circuit by introducing Thyristors between the load and a constant voltage ac source. The RMS value of alternating voltage applied to a load circuit is controlled by controlling the triggering angle of the Thyristors in the ac voltage controller circuits.
+
+In phase control the Thyristors are used as switches to connect the load circuit to the input ac supply, for a part of every input cycle. That is the ac supply voltage is chopped using Thyristors during a part of each input cycle.
+
+The thyristor switch is turned on for a part of every half cycle, so that input supply voltage appears across the load and then turned off during the remaining part of input half cycle to disconnect the ac supply from the load.
+
+By controlling the phase angle or the trigger angle ‘a’ (delay angle), the output RMS voltage across the load can be controlled. The trigger delay angle ‘a’ is defined as the phase angle (the value of ?t) at which the thyristor turns on and the load current begins to flow.
